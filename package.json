@@ -1,0 +1,22 @@
+{
+    "name": "training",
+    "version": "0.0.1",
+    "description": "",
+    "engines": {
+        "node": "5.9.1"
+    },
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "ejs": "2.4.1",
+        "express": "4.13.3",
+        "body-parser": "1.15.2",
+        "jwt-simple": "0.5.0",
+        "moment" : "2.16.0",
+        "lodash": "^4.16.6",
+        "compression": "^1.6.2"
+    },
+    "license": "MIT"
+}
